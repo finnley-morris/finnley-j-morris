@@ -1,4 +1,5 @@
 Hi there 👋
+I'm Anna Morris, a web developer who works mainly in Javascript frameworks. 
 
 
 

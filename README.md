@@ -1,7 +1,11 @@
 Hi there 👋
 I'm Anna Morris, a web developer who works mainly in Javascript frameworks. 
 
-
+🌱 Right now I'm exercising my React skills and exploring new languages.
+👯 I’m looking to collaborate with new developers so we can learn and grow together.
+📫 How to reach me:
+  email: annamorris626@gmail.com
+  LinkedIn: https://www.linkedin.com/in/anna-m-morris/
 
 
 
@@ -15,7 +19,7 @@ I'm Anna Morris, a web developer who works mainly in Javascript frameworks.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+-  I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

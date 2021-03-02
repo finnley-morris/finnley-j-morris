@@ -6,8 +6,6 @@ I'm Anna Morris, a web developer who works mainly in Javascript frameworks.
 ### 📫 How to reach me:
   - annamorris626@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/anna-m-morris/)
-  - Personal website coming soon!
-
 
 
 

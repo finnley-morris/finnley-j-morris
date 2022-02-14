@@ -1,8 +1,6 @@
 # Hi there 👋
-I'm Finnley Morris, a web developer who works mainly in Javascript frameworks. 
+I'm Finnley Morris, a frontend web developer who works mainly in React. 
 
-- 🌱 Right now I'm exercising my React skills and exploring new languages.
-- 👯 I’m looking to collaborate with other developers so we can learn and grow together.
 ### 📫 How to reach me:
   - morrisfinnley@gmail.com
   - [LinkedIn](https://www.linkedin.com/in/anna-m-morris/)
